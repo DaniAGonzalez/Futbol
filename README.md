@@ -3,7 +3,7 @@
 
 Portafolio de dos proyectos de *football data & insights* construidos de punta a punta: desde la ingesta de datos crudos hasta una capa de decisión (shortlists, valuaciones, one-pagers). El foco es mostrar el pipeline completo de modelado —clustering, modelos bayesianos, embeddings de grafo, valor de mercado— aplicado a problemas reales de scouting y reclutamiento, con criterio metodológico y comunicación honesta de la incertidumbre.
 
-Soy research scientist en machine learning (PhD en Ciencias Biológicas, Máster en Data Science), con experiencia en graph neural networks y modelado probabilístico. Estos proyectos combinan ese background técnico con el análisis de fútbol. LinkedIn / contacto: **@biodatadani**.
+Soy research scientist en machine learning (PhD en Ciencias Biológicas, Máster en Data Science), con experiencia en graph neural networks y modelado probabilístico. Estos proyectos combinan ese background técnico con el análisis de fútbol. 
 
 Este repositorio contiene los **reportes y visualizaciones** de cada proyecto. El código completo no está publicado; los reportes documentan la metodología, los hallazgos y las decisiones de modelado.
 
